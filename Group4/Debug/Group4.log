@@ -1,0 +1,5 @@
+﻿  Group4.cpp
+c:\users\ahmed\source\repos\group4\group4\group4.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ahmed\source\repos\group4\group4\group4.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Group4.vcxproj -> C:\Users\ahmed\source\repos\Group4\Debug\Group4.exe
+  Group4.vcxproj -> C:\Users\ahmed\source\repos\Group4\Debug\Group4.pdb (Partial PDB)
